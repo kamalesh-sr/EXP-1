@@ -53,22 +53,30 @@ b.  KCL:
 Calculation:
 
 a.   KVL:
- 
+
+ <img width="1600" height="1471" alt="WhatsApp Image 2026-10-22 at 11 05 14 AM" src="https://github.com/user-attachments/assets/6bed3ab6-7b00-4b77-968a-cf04393f0533" />
+
 
 
 b.  KCL:
 
+<img width="1034" height="210" alt="WhatsApp Image 2026-10-22 at 11 06 42 AM" src="https://github.com/user-attachments/assets/a8d246e1-7dbd-44cd-a160-887309c3e248" />
+
+
+<img width="1600" height="1240" alt="image" src="https://github.com/user-attachments/assets/e151b8af-5c24-49ec-b5ac-ebbfea425d62" />
 
 
 
 Tabulation:
 
 a.   KVL:
- 
+ <img width="1600" height="1192" alt="image" src="https://github.com/user-attachments/assets/392ad180-30f1-4555-911c-697287783251" />
+
 
 
 b.  KCL:
 
+<img width="1600" height="324" alt="image" src="https://github.com/user-attachments/assets/7755e852-9830-4490-9731-94a4e2e9230b" />
 
 
 RESULT:
